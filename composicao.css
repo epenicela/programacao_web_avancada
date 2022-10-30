@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+    background: #fff;
+    font-family: Georgia;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+
+div.base {
+    background: #eeeeee;
+    width: 960px;
+    margin: auto;
+}
+
+h1,
+h2 {
+    margin: 0;
+}
+
+section.bloco1{
+    background: orange;
+    width: 50%;
+    
+}
+
+
+section.bloco2{
+    background: green;
+    position: relative;
+    
+    
+}
+section.bloco3{
+    background: red;
+    position: relative;
+    width: 50%;
+    right: -50%;
+    margin-top: -3.1%;;
+    
+}
