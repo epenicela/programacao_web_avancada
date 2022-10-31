@@ -17,6 +17,7 @@ div.base {
 h1,
 h2 {
     margin: 0;
+    color: black;
 }
 
 section.bloco1 {
@@ -53,5 +54,5 @@ section.bloco3 {
 
 .ultimo_paragrafo {
     float: left;
-    margin-left: -23.3%;
+    margin-left: -23%;
 }
