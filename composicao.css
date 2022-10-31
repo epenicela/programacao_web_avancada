@@ -28,8 +28,10 @@ section.bloco1{
 
 section.bloco2{
     background: green;
-    position: relative;
-    
+    position: absolute;
+    margin-top: 0%;
+    left: 35%;
+    width: 30%;
     
 }
 section.bloco3{
