@@ -10,7 +10,7 @@ body {
 
 div.base {
     background: #eeeeee;
-    width: 960px;
+    width: 900px;
     margin: auto;
 }
 
@@ -19,26 +19,39 @@ h2 {
     margin: 0;
 }
 
-section.bloco1{
+section.bloco1 {
     background: orange;
-    width: 50%;
-    
+    width: 200px;
+    float: left;
+
 }
 
 
-section.bloco2{
+section.bloco2 {
     background: green;
-    position: absolute;
-    margin-top: 0%;
-    left: 35%;
-    width: 30%;
-    
+    width: 500px;
+    float: left;
+    margin-left: 200px;
+    margin-top: -3.3%;
 }
-section.bloco3{
+
+section.bloco3 {
     background: red;
-    position: relative;
-    width: 50%;
-    right: -50%;
-    margin-top: -3.1%;;
-    
+    margin-left: 700px;
+    width: 200px;
+}
+
+.imagem {
+
+    float: left;
+    margin: 10px;
+}
+
+.texto {
+    float: right;
+}
+
+.ultimo_paragrafo {
+    float: left;
+    margin-left: -23.3%;
 }
